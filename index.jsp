@@ -7,7 +7,7 @@ int i2=0;
 
 %>
 <html>
-	<h1>Hello</h1>
+	<h1>Hello, working JSP </h1>
 <%
 int i=0;
 out.println("Goodbye " + i++);
